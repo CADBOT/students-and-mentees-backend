@@ -1,0 +1,5 @@
+requiredStudentProperties:
+  - name
+  - github
+  - linkedin
+  - bio
